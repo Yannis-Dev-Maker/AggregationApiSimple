@@ -69,7 +69,7 @@ public class AggregatedResult {
 
 ## ⚙️ Deployment
 
-- Backend: Windows Server 2019, .NET 6 Kestrel
+- Backend: Windows Server 2019, .NET 8 Kestrel
 - Ports forwarded: 5000 (HTTP), 5001 (HTTPS)
 - Public Domain: `api.pc-soft.gr`
 - Frontend Hosted at: [https://www.pc-soft.gr/api-calls](https://www.pc-soft.gr/api-calls)
