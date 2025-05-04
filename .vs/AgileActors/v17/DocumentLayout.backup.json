@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\controllers\\aggregationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\controllers\\aggregationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors.tests\\controllers\\aggregationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|solutionrelative:agileactors.tests\\controllers\\aggregationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\services\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\services\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\services\\iaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\services\\iaggregatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors.tests\\services\\weatherservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|solutionrelative:agileactors.tests\\services\\weatherservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors.tests\\services\\spotifyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|solutionrelative:agileactors.tests\\services\\spotifyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors.tests\\services\\newsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|solutionrelative:agileactors.tests\\services\\newsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|solutionrelative:agileactors.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\agileactors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\agileactors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors.tests\\agileactors.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56350FED-F3A5-4139-B705-C257A2F29200}|AgileActors.Tests\\AgileActors.Tests.csproj|solutionrelative:agileactors.tests\\agileactors.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\models\\aggregatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\models\\aggregatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\models\\aggregatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\models\\aggregatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|c:\\users\\administrator\\desktop\\csharpsoftware\\agile\\agileactors\\agileactors\\agileactors.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{562EFE18-745A-417A-91F1-863C1DCCF0D6}|AgileActors\\AgileActors.csproj|solutionrelative:agileactors\\agileactors.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "AgileActors\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Services\\WeatherService.cs",
+              "RelativeToolTip": "AgileActors\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:11:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AggregationController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Controllers\\AggregationController.cs",
+              "RelativeDocumentMoniker": "AgileActors\\Controllers\\AggregationController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Controllers\\AggregationController.cs",
+              "RelativeToolTip": "AgileActors\\Controllers\\AggregationController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAhwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:59:36.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Program.cs",
+              "RelativeDocumentMoniker": "AgileActors\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Program.cs",
+              "RelativeToolTip": "AgileActors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:42:50.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpotifyService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Services\\SpotifyService.cs",
+              "RelativeDocumentMoniker": "AgileActors\\Services\\SpotifyService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Services\\SpotifyService.cs",
+              "RelativeToolTip": "AgileActors\\Services\\SpotifyService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:13:17.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AggregatedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Models\\AggregatedResponse.cs",
+              "RelativeDocumentMoniker": "AgileActors\\Models\\AggregatedResponse.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Models\\AggregatedResponse.cs",
+              "RelativeToolTip": "AgileActors\\Models\\AggregatedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:41:14.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "AgileActors\\Services\\NewsService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Services\\NewsService.cs",
+              "RelativeToolTip": "AgileActors\\Services\\NewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:14:22.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAggregatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Services\\IAggregatorService.cs",
+              "RelativeDocumentMoniker": "AgileActors\\Services\\IAggregatorService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Services\\IAggregatorService.cs",
+              "RelativeToolTip": "AgileActors\\Services\\IAggregatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:56:46.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AgileActors.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AgileActors.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:12:13.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgileActors.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\AgileActors.csproj",
+              "RelativeDocumentMoniker": "AgileActors\\AgileActors.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\AgileActors.csproj",
+              "RelativeToolTip": "AgileActors\\AgileActors.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T16:49:28.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AggregatedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Models\\AggregatedResult.cs",
+              "RelativeDocumentMoniker": "AgileActors\\Models\\AggregatedResult.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\Models\\AggregatedResult.cs",
+              "RelativeToolTip": "AgileActors\\Models\\AggregatedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:54:28.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgileActors",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\AgileActors.csproj",
+              "RelativeDocumentMoniker": "AgileActors\\AgileActors.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\AgileActors.csproj",
+              "RelativeToolTip": "AgileActors\\AgileActors.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T17:03:50.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\appsettings.json",
+              "RelativeDocumentMoniker": "AgileActors\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors\\appsettings.json",
+              "RelativeToolTip": "AgileActors\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T17:05:59.784Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AggregationControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\Controllers\\AggregationControllerTests.cs",
+              "RelativeDocumentMoniker": "AgileActors.Tests\\Controllers\\AggregationControllerTests.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\Controllers\\AggregationControllerTests.cs",
+              "RelativeToolTip": "AgileActors.Tests\\Controllers\\AggregationControllerTests.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:26:30.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\Services\\WeatherServiceTests.cs",
+              "RelativeDocumentMoniker": "AgileActors.Tests\\Services\\WeatherServiceTests.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\Services\\WeatherServiceTests.cs",
+              "RelativeToolTip": "AgileActors.Tests\\Services\\WeatherServiceTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:25:48.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpotifyServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\Services\\SpotifyServiceTests.cs",
+              "RelativeDocumentMoniker": "AgileActors.Tests\\Services\\SpotifyServiceTests.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\Services\\SpotifyServiceTests.cs",
+              "RelativeToolTip": "AgileActors.Tests\\Services\\SpotifyServiceTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:25:19.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\Services\\NewsServiceTests.cs",
+              "RelativeDocumentMoniker": "AgileActors.Tests\\Services\\NewsServiceTests.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\Services\\NewsServiceTests.cs",
+              "RelativeToolTip": "AgileActors.Tests\\Services\\NewsServiceTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:24:54.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgileActors.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\AgileActors.Tests.csproj",
+              "RelativeDocumentMoniker": "AgileActors.Tests\\AgileActors.Tests.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CSharpSoftware\\Agile\\AgileActors\\AgileActors.Tests\\AgileActors.Tests.csproj",
+              "RelativeToolTip": "AgileActors.Tests\\AgileActors.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T12:23:59.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
