@@ -1,6 +1,6 @@
 # 🌐 Agile API Aggregator
 
-Agile Aggregator is a unified .NET 6 web API that consolidates data from multiple public APIs (NewsAPI, Spotify, OpenWeatherMap) into a single endpoint. It includes a user-friendly frontend hosted separately and a Kestrel-powered backend with HTTPS support.
+Agile Aggregator is a unified .NET 8 web API that consolidates data from multiple public APIs (NewsAPI, Spotify, OpenWeatherMap) into a single endpoint. It includes a user-friendly frontend hosted separately and a Kestrel-powered backend with HTTPS support.
 
 ---
 
