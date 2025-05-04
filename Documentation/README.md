@@ -108,7 +108,6 @@ Implemented using **xUnit** + **Moq** under `AgileActors.Tests`:
 
 - ❌ Caching (deliberately skipped)
 - ❌ Request statistics & performance buckets
-- 🔜 GitHub publishing
 
 ---
 
